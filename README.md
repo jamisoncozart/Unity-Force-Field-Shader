@@ -1,4 +1,4 @@
-# Unity Water Shader
+# Unity Force Field Shader
 
 This is a simple force field shader with procedural color, customizable texture, and object intersection tracking creating a sci-fi force field asset for any Unity project using the Universal Render Pipeline.
 
